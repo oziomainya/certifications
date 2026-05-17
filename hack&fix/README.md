@@ -1,4 +1,4 @@
-# 🟤 hack & Fix Certifications
+# 🟤 Hack & Fix Certifications
 
 Certifications earned from Hack & Fix.
 
